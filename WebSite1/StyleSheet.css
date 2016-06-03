@@ -1,0 +1,304 @@
+﻿body {
+    /*border-image-source:url(myImage/horizon.jpg);*/
+    background-color: rgb(230,27,147);
+    font-family: Ariel,sans-serif,Verdana;
+    font-size: 15px;
+    margin-left: 1px;
+    border-image-width:50%;
+    border-image-repeat:repeat;
+   
+    
+}
+
+.hompg{
+    padding:15px;
+    margin-left:185px;
+}
+
+.Menu {
+    border: 1px solid, rgb(237, 237,237);
+    margin-top:10px;
+    margin-bottom:10px;
+    float:left;
+    border-radius: 5px, 5px, 5px, 5px;
+    width:97%;
+    font-size:15px;
+    height:80px;
+    /*background-color: rgb(15,50,10);*/
+    border-image-source:url(myImage/swirlies.gif);
+    border-image-repeat:round;
+    border-image-width:60%;
+}
+
+#rdapplout{
+    margin-Top: -25px;
+    position:relative;
+    left:75%;
+}
+#replyScreenSession{
+     margin-Top: -22px;
+    position:relative;
+    left:78%;
+    width:296px;
+}
+
+#memMainPg{
+     margin-Top: -22px;
+    position:relative;
+    left:78%;
+    width:296px;
+}
+
+#ScheduleOption{
+     margin-top:15px;
+     float:left;
+     position:relative;
+     background-color:rgb(250,28,155);
+     margin-left:350px;
+     /*width:250px;*/
+     height:70%;
+
+}
+
+#otherlgout{
+    margin-Top: -25px;
+    position:relative;
+    margin-left:78%;
+}
+#MemLogin, #confirmProfsn{
+    margin-left:500px;
+    justify-content:center;
+    width: 400px;
+    background-color:white;
+    height: 370px;
+}
+#RegstnDiv{
+    margin-left:500px;
+    justify-content:center;
+    width: 400px;
+    background-color:white;
+    height: 650px;
+}
+
+.Menu,ul,li{
+    display:block;
+    border-right:1px,solid, rgb(10,18,34);
+    border-left:1px,solid, rgb(10,18,34);
+    float:left;
+    margin-left: 30px;
+    color:white;
+
+}
+
+.Menu,ul,li a{
+    font-size:12px;
+    font-weight:bold;
+    float:left;
+    margin:20px;
+    color:brown;
+    
+}
+.Menu,ul,li,a:hover{
+    color: rgb(10,45,90);
+    border-right:1px,solid,rgb(10,10,10);
+}
+
+.Lgout{
+    margin-Top: -22px;
+    position:relative;
+    left:78%;
+    width:296px;
+}
+
+.about{
+     text-align:center;
+     
+     color:white;
+     font-size:28px;
+    
+}
+.Bcontent{
+    min-height:600px;
+    border: 1px, solid, rgb(237, 237,237);
+    margin-top:10px;
+    margin-bottom:10px;
+    float:left;
+    width:100%;
+    background-image:url(myImage/horizon.jpg);/**/
+    margin:0px,0px,10px;
+   
+    border-image-repeat:space;
+    
+    /* background-color: rgb(200,150,250);
+    */
+    
+}
+.BKvisit{
+   background-color:mintcream;
+    margin-left:35%;
+    width:400px;
+    height:632px;
+    margin-top:12px;
+    
+    }
+.VistLgout{
+     margin-Top: -22px;
+    position:relative;
+    left:78%;
+    width:296px;
+  
+   
+}
+
+.App{
+    margin-top:10px;
+    width:400px;
+    height:626px;
+    background-color:seagreen;
+    margin:auto;
+    /*background-color:rgb(202,255,80);*/
+}
+
+nav{
+    float:inherit;
+    position:relative;
+    margin:4px,7px,2px,4px;
+    width:100%;
+
+   }
+
+.fill{
+        clear:both;
+
+}
+h2{
+    font-style:italic;
+    color:rgb(144,144,255);
+    text-align:center;
+}
+h3{
+    font-family:sans-serif,Raavi,'Courier New','Bookman Old Style';
+    color:whitesmoke;
+}
+
+h4{
+    font-family: Arial,sans-serif,Verdana;
+    color:rgb(211,211,211);
+}
+h5{
+    font-family: Arial,sans-serif,Verdana;
+    color:rgb(211,211,211);
+    text-align:center;
+}
+
+h6{
+    margin-top:35px;
+    text-align:center;
+    color:rgb(182, 255, 0);
+    font-size:20px;
+    font-style:oblique;
+    font-family:Book Antiqua,'Comic Sans MS','Courier New';
+}
+
+#GrdV1{
+    margin-left: 10px;
+    bottom:20px;
+    width: 385px;
+}
+
+#GrdV2{
+     margin-left: 10px;
+    position:relative;
+    width: 366px;
+     
+}
+
+#GrdV3{
+    margin-left: 5px;
+    position:relative;
+    width: 383px;
+    
+}
+
+.AllGrd{
+    margin-left:25%;
+    background-color:rgb(111,90,222);
+    width:600px;
+    min-height:600px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display:block;
+    padding-left:10%;
+}
+
+#BKotherSchedule{
+    background-color:skyblue;
+    border:1px, double, orange;
+    width:400px;  
+    margin:auto;
+
+}
+
+.lblResultView{
+    margin-left:3%;
+    margin-top:7%;
+}
+
+.queryLgout{
+     margin-Top: -22px;
+    position:relative;
+    left:78%;
+    width:296px;
+}
+
+.checkReply{
+    margin:15px;
+    color:yellow;
+    margin-left:20px;
+}
+#apptmtSheet{
+    background-color:#E9C843;
+    width:500px;
+    margin-left:400px;
+}
+#visitatnSheet{
+    background-color:#2DD9BF;
+    width:500px;
+    margin-left:400px;
+}
+
+#otherSheet{
+    background-color:#F9395B;
+    width:400px;
+    margin-left:400px;
+}
+
+#ProfAppViews{
+     margin-left:500px;
+     position:absolute;
+     margin-top:30px;
+     background-color:rgb(66,34,55);
+     height:55%;
+}
+#VisitReplyBtn
+{          width: 326px;
+           margin-left:550px;    
+}
+
+#viewReplyBtn{
+   margin-left:32%;
+   padding-left:5%;
+   width:290px;
+   
+}
+
+.footer{
+    
+    margin-top:20px;
+    background-color:grey;
+    border: 1px,solid;
+    text-align:center;
+    color:blue;
+}
+
